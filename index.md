@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## Implementation of OAuth 2.0 using NodeJS
+
+OAuth2 is an authentication protocol that is used to authenticate and authorize users in an application by using another service provider.
+
+There are three parties in any OAuth flow:
+
+The client - The person, or user who is logging in.
+The consumer - The application that the client wants to log in to.(Our aplication)
+The service provider - The external application through which the user authenticates. (which is gmail for this application)
+
+In this project, we will authenticate using OAuth2 API, and build a sample node application, running on the local port 3000, with a web interface.
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Jyotiprav/OAuth-tutorial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
